@@ -1,0 +1,40 @@
+.st-emotion-cache-bm2z3a {
+    padding-top: 100px;
+    background-color: black;
+    color: white;
+}
+
+.main {
+    text-align: center;
+}
+
+.st-emotion-cache-89jlt8 p {
+    color: white;
+}
+
+.stTextInput {
+    width: 100% !important;
+    margin: auto;
+}
+
+.stButton {
+    display: flex;
+    justify-content: center;
+}
+
+.stButton button {
+    width: 50%;
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    transition: background 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+}
+
+.stButton button:hover {
+    background: linear-gradient(90deg, #2575fc, #6a11cb);
+    transform: scale(1.05);
+}
